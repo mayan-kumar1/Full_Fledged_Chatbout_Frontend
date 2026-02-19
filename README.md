@@ -2,11 +2,11 @@
 
 A lightweight, React-based chat client built with Vite. This repository contains the frontend application for **Chatbout**—a real-time conversation platform designed to be fast, responsive, and easy to deploy.
 
-> 🚀 **Tech stack:** React + Vite + ESLint + CSS Modules (or Tailwind/your choice)
+>  **Tech stack:** React + Vite + ESLint + CSS Modules (or Tailwind/your choice)
 
 ---
 
-## 📌 Features
+##  Features
 
 - Real‑time chat interface with Fast Refresh during development
 - Responsive layout suitable for desktop and mobile
@@ -14,23 +14,12 @@ A lightweight, React-based chat client built with Vite. This repository contains
 - ESLint configuration for consistent code style
 - Asset handling via Vite's optimized build
 
-## 🛠️ Getting started
+##  Getting started
 
 ### Prerequisites
 
 - Node.js ≥ 16.x (preferably latest LTS)
 - npm, yarn, or pnpm
-
-### Installation
-
-```bash
-# clone the repo
-git clone https://github.com/<your-org>/Full_Fledged_Chatbout_Frontend.git
-cd Full_Fledged_Chatbout_Frontend
-
-# install dependencies
-npm install      # or yarn install, pnpm install
-```
 
 ### Development
 
@@ -67,7 +56,7 @@ npm run lint
 > Tip: integrate with your editor for on‑save linting.
 
 
-## 📁 Project structure
+##  Project structure
 
 ```
 ├── public/          # static assets
@@ -83,7 +72,7 @@ npm run lint
 └── README.md
 ```
 
-## 🤝 Contributing
+##  Contributing
 
 1. Fork the repository
 2. Create a feature branch (`git checkout -b feature/foo`)
@@ -100,4 +89,4 @@ This project is licensed under the [MIT License](LICENSE).
 
 ---
 
-Happy coding! 🎉
+Happy coding! 
